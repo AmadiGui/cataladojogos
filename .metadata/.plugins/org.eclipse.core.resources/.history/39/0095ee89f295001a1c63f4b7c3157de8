@@ -1,0 +1,5 @@
+package com.mycodeopslab.helloworld.controller;
+
+public @interface RestControler {
+
+}

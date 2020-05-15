@@ -1,0 +1,7 @@
+package com.mycodeopslab.helloworld.controller;
+
+#RestControler
+public class AlunoController {
+
+	
+}

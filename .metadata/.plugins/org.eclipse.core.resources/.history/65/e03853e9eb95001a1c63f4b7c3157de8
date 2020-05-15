@@ -1,0 +1,11 @@
+package com.mycodeopslab.helloworld.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+public class HelloController {
+@RestController	
+	public String sayHello() {
+		return "HelloWorld SpringBoot";
+	}
+
+}

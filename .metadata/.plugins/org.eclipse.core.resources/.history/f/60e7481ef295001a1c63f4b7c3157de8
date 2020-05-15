@@ -1,0 +1,5 @@
+package com.mycodeopslab.helloworld.model;
+
+public class Aluno {
+
+}

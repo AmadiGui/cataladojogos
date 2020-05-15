@@ -1,0 +1,16 @@
+package com.mycodeopslab.helloworld.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+
+public class AlunoController {
+
+	@GetMapping("/aluno")
+	public Aluno gewtAluno() {
+		Aluno a = new Aluno(1, "gui","gui@gui")
+		return a;
+	}
+	
+}

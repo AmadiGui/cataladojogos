@@ -1,0 +1,5 @@
+package com.mycodeopslab.cataladojogos.model;
+
+public class Jogo {
+
+}

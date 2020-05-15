@@ -1,0 +1,10 @@
+package com.mycodeopslab.helloworld.controller;
+
+public class HelloController {
+	
+@RestController	
+	public String sayHello() {
+		return "HelloWorld SpringBoot";
+	}
+
+}

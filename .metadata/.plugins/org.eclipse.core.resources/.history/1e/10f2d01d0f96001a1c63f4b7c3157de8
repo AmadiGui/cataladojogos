@@ -1,0 +1,5 @@
+package com.mycodeopslab.cataladojogos.dao;
+
+public interface JogoDAO {
+
+}

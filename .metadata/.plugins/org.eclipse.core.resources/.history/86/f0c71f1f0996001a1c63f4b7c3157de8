@@ -1,0 +1,12 @@
+package com.mycodeopslab.cataladojogos.model;
+
+public class Jogo {
+	
+	private int id ;
+	private String nome ;
+	private int classificacao ;
+	private String plataforma ;
+	private String descricao;
+	private float preco ;
+
+}
